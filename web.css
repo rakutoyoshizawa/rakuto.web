@@ -1,0 +1,35 @@
+@charset "UTF-8";
+body{
+    background-color: whitesmoke;
+    /*background: linear-gradient(50deg, green, lightgreen, white);*/
+    /*background: url(./swimming2.jpg);*/
+    }
+h1{text-align: center;}
+.hilight-blue{
+    background-color: blue;
+}
+.right{text-align: right;}
+body{
+    font-size: 1.0em;
+}
+.hilight-cyan{
+    background-color: cyan;
+}
+.blue{color: blue;}
+.white{color: white;}
+h1{color: white;}
+.green{color: green;}
+.square{list-style: square;
+        font-weight: bold;
+        text-decoration: underline;}
+h2{text-decoration: underline;}
+h3{color: green;}
+.bolds{
+    font-weight: bold;
+    text-decoration: underline;
+    }
+.red{color: red;}
+.under{text-decoration: underline;}
+a:hover{color: red;}
+a:active{font-size: 2em;} 
+a:visited{color: silver;}
