@@ -12,6 +12,7 @@ h1{text-align: center;}
 body{
     font-size: 1.0em;
 }
+.big{font-size: 10em;}
 .hilight-cyan{
     background-color: cyan;
 }
